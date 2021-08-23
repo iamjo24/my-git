@@ -1,0 +1,3 @@
+# my-git
+
+mygit pull
